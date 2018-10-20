@@ -4,7 +4,7 @@
   "description": "A basic tool for load balancing and traffic shaping",
   "main": "index.js",
   "scripts": {
-    "test": "echo TBD"
+    "test": "tap test/*.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andrew8088/traffic-cop/issues"
   },
-  "homepage": "https://github.com/andrew8088/traffic-cop#readme"
+  "homepage": "https://github.com/andrew8088/traffic-cop#readme",
+  "devDependencies": {
+    "tap": "^12.0.1"
+  }
 }
