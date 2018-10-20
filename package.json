@@ -1,0 +1,19 @@
+{
+  "name": "traffic-cop",
+  "version": "1.0.0",
+  "description": "A basic tool for load balancing and traffic shaping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo TBD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew8088/traffic-cop.git"
+  },
+  "author": "Andrew Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew8088/traffic-cop/issues"
+  },
+  "homepage": "https://github.com/andrew8088/traffic-cop#readme"
+}
